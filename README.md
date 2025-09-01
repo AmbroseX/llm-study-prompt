@@ -98,8 +98,8 @@ llm-study-prompt/
 
 ## 📞 联系我们
 
-- 💬 讨论：[GitHub Discussions](https://github.com/ambrose/llm-study-prompt/discussions)
-- 🐛 问题反馈：[GitHub Issues](https://github.com/ambrose/llm-study-prompt/issues)
+- 💬 讨论：[GitHub Discussions](https://github.com/AmbroseX/llm-study-prompt/discussions)
+- 🐛 问题反馈：[GitHub Issues](https://github.com/AmbroseX/llm-study-prompt/issues)
 
 ---
 
